@@ -10,7 +10,7 @@
     "@types/mocha": "^8.2.1",
     "@types/node": "^14.14.31",
     "@typescript-eslint/eslint-plugin": "^4.8.2",
-    "@typescript-eslint/parser": "^4.8.2",
+    "@typescript-eslint/parser": "^4.22.0",
     "bchaddrjs-slp": "^0.2.13",
     "bitcoin-rpc-promise": "^2.1.6",
     "bitcore-lib-cash": "^8.25.3",
