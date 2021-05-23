@@ -37,6 +37,6 @@
     "patch-package": "^6.2.2",
     "source-map-support": "^0.5.19",
     "ts-node": "^9.1.1",
-    "uglify-es": "^3.3.9"
+    "uglify-es": "^3.3.10"
   }
 }
