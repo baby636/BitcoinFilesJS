@@ -33,7 +33,7 @@
     "@types/mocha": "^8.2.2",
     "browserify": "^16.2.2",
     "grpc-bchrpc-node": "^0.15.0",
-    "mocha": "^8.3.2",
+    "mocha": "^10.1.0",
     "patch-package": "^6.2.2",
     "source-map-support": "^0.5.19",
     "ts-node": "^9.1.1",
