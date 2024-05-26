@@ -14,7 +14,7 @@
     "bchaddrjs-slp": "^0.2.13",
     "bitcoin-rpc-promise": "^2.1.6",
     "bitcore-lib-cash": "^8.25.3",
-    "eslint": "^7.14.0",
+    "eslint": "^9.0.0",
     "eslint-plugin-jsdoc": "^30.7.8",
     "eslint-plugin-prefer-arrow": "^1.2.2",
     "grpc-bchrpc-node": "^0.15.0",
